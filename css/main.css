@@ -80,7 +80,7 @@ span {
 	width: 15px;
 	border-right: 1px solid white;
 	border-bottom: 1px solid white;
-	transform: rotate(-45deg);
+	transform: rotate(45deg);
 	margin: 0 auto;
 }
 
@@ -338,7 +338,7 @@ h2 {
 }
 
 .formdiv{
-	width: 601px;
+	width: 381px;
 	box-shadow: 0px 17px 50px rgba(32, 40, 69, 0.14);
     border-radius: 20px;
     padding-bottom: 97px;
