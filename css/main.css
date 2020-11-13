@@ -338,7 +338,6 @@ h2 {
 }
 
 .formdiv{
-	width: 381px;
 	box-shadow: 0px 17px 50px rgba(32, 40, 69, 0.14);
     border-radius: 20px;
     padding-bottom: 97px;
@@ -355,7 +354,7 @@ h2 {
   background-color: rgb(9 178 255 / 45%);
 }
 .form  {
-	width: 581px;
+	width: 481px;
 	margin: 0 auto;
 	-ms-align-items: center;
 	align-items: center;
@@ -390,7 +389,7 @@ input {
     font-size: 16px;
     font-family: 'PT Sans', sans-serif;
     display: block;
-    width: 581px;
+    width: 461px;
     padding: 19px 26px;
     margin-bottom: 15px;
 }
