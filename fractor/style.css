@@ -1,0 +1,24 @@
+body {
+	background: #346;
+	font-family: sans-serif;
+	padding-top: 10%;
+}
+.number {
+	font-family: sans-serif;
+	font-size: 30px;
+	color: #fff;
+	text-align: center;
+}
+.input {
+	width: 200px;
+	height: 40px;
+	border: none;
+	margin: 0 auto;
+	border-radius: 100px;
+display: block;
+}
+.new-number {
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+}
